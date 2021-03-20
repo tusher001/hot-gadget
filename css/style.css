@@ -1,0 +1,28 @@
+.buy-now-btn{
+    color: #fff;
+    background-color: #000000;
+    border: none;
+    padding: 7px 15px;
+    border-radius: 8px;
+}
+.yellow-indicator{
+    background-image: linear-gradient(to right, #FFB12A , #FFD019);
+    border-radius: 12px;
+    padding: 2px 3px !important;
+}
+.carousul p{
+    color: #707070;
+    margin-bottom: 50px;
+}
+.carousel-bg{
+    background-image: url('../img/bg-2.png');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 10%;
+}
+.carousul{
+    background-image: url(../img/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 6%;
+}
