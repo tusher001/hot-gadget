@@ -10,7 +10,7 @@
     border-radius: 12px;
     padding: 2px 3px !important;
 }
-.carousul p{
+p{
     color: #707070;
     margin-bottom: 50px;
 }
@@ -25,4 +25,24 @@
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 6%;
+    margin-bottom: 50px;
+}
+.product-head{
+    margin-bottom: 50px;
+}
+.product-head h4{
+    color: #FF9D00;
+}
+.card-body-style{
+    padding: 20px 30px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 3px 3px 6px 1px #b1710b;
+}
+#product{
+    margin-bottom: 50px;
+}
+#product-laptop{
+    margin-bottom: 100px;
 }
