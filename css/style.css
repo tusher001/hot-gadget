@@ -6,7 +6,7 @@
     border-radius: 8px;
 }
 .yellow-indicator{
-    background-image: linear-gradient(to right, #FFB12A , #FFD019);
+    background-image: linear-gradient(to right, #FF9C35, #FFC51E);
     border-radius: 12px;
     padding: 2px 3px !important;
 }
@@ -45,4 +45,45 @@ p{
 }
 #product-laptop{
     margin-bottom: 100px;
+}
+.categori{
+    margin-bottom: 50px;
+}
+.categori h2{
+    padding-bottom: 10px;
+
+}
+.yellow-underline {
+    background-image: linear-gradient(to right, #FFC51E , #FF9C35);
+    border-radius: 15px;
+    padding: 0px 60px;
+}
+.categori-box{
+    border-radius: 10px 0px;
+    box-shadow: 3px 3px 6px 1px #b1710b;
+    padding: 25px 20px;
+    margin-bottom: 30px;
+}
+.under-categori{
+    margin-bottom: 50px;
+}
+.bg-color {
+    background-color: #f8d25e;
+    border-radius: 10px;
+}
+.input-area {
+    border: none;
+    background-color: #fff;
+    padding: 10px 20px;
+    margin: 20px 0px;
+    width: 450px;
+    border-radius: 10px;
+}
+#contact {
+    padding: 80px 0px;
+    text-align: center;
+}
+footer{
+    margin-top: 50px;
+    text-align: center;
 }
